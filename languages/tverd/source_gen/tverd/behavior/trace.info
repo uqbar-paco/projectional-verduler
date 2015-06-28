@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="Balance_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="tverd.behavior.Balance_BehaviorDescriptor" />
+    </file>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="9,0,34,0" name="tverd.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="ClienteBalance_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="tverd.behavior.ClienteBalance_BehaviorDescriptor" />
+    </file>
+    <file name="ClienteCredito_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="tverd.behavior.ClienteCredito_BehaviorDescriptor" />
+    </file>
+    <file name="ClienteDeuda_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="tverd.behavior.ClienteDeuda_BehaviorDescriptor" />
+    </file>
+    <file name="Cliente_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="tverd.behavior.Cliente_BehaviorDescriptor" />
+    </file>
+    <file name="Compra_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="tverd.behavior.Compra_BehaviorDescriptor" />
+    </file>
+    <file name="Medida_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="tverd.behavior.Medida_BehaviorDescriptor" />
+    </file>
+    <file name="Producto_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="tverd.behavior.Producto_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:e41bd277-af40-4c46-95e3-1c09830bef4a(tverd.behavior)/8295061481380282090">
+    <file name="Compra_Behavior.java">
+      <node id="8295061481380282090" at="8,0,10,0" concept="0" trace="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <scope id="8295061481380282092" at="8,43,8,43" />
+      <scope id="8295061481380282090" at="8,0,10,0">
+        <var name="thisNode" id="8295061481380282090" />
+      </scope>
+      <unit id="8295061481380282090" at="7,0,11,0" name="tverd.behavior.Compra_Behavior" />
+    </file>
+  </root>
+</debug-info>
+
